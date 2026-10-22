@@ -1,0 +1,6 @@
+node_modules/
+.env
+epoint.db
+epoint.db-shm
+epoint.db-wal
+
